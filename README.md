@@ -2,8 +2,8 @@
 ## Date: 18.03.2025
 ## Reg No: 212224040111
 
-## AIM:
-To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
+## AIM:  
+To create a structured HTML table to display data using HTML tags.
 
 ## DESIGN STEPS:
 ### Step 1: 
